@@ -2,7 +2,7 @@
 ## Test environment
 * OS: Windows Server 2012 R2
 * Compiler: Microsoft Visual C++ 2015 Professional
-* CPU: Intel Xeon E5-2650 V4 @2.2G Hz (2 CPUs, 24 cores in total)
+* CPU: Intel Xeon E5-2650 V4 @2.2 GHz (2 CPUs, 24 cores in total)
 * Hyper-Threading and Turbo Boost disabled
 
 
