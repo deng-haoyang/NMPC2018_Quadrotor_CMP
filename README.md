@@ -15,5 +15,5 @@
 1. Run `AutoGenU_Quadcopter.mw`.
 
 ## Using ParNMPC
-1. Find the quadrotor example under the  `ParNMPC-Beta2.0` branch.
+1. Find the quadrotor example under the `ParNMPC-Beta2.0` branch in https://github.com/deng-haoyang/ParNMPC.
 2. Follow the user manual.
